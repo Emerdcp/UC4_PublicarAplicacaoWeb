@@ -1,3 +1,28 @@
+# Sites apresentados na aula 30/06
+
+- (site)Page Speed Insight ⇒ desempenho
+[PageSpeed Insights](https://pagespeed.web.dev/)
+
+- (site)GTmetrix ⇒ desempenho:
+[GTmetrix | Website Performance Testing and Monitoring](https://gtmetrix.com/)
+
+- (site)WebPagetest ⇒ desempenho:
+https://www.cookieyes.com/cookie-consent-cmp/?utm_source=google&utm_medium=cpc&utm_campaign=search_branded_row&utm_content=em_branded_row&utm_term=cookieyes&gad_source=1&gad_campaignid=21638946392&gbraid=0AAAAACsJrke0ndFprPmYWVnF8lQb3fc32&gclid=Cj0KCQjw64jDBhDXARIsABkk8J7Vs_IgDjwD8V77qk1P8lCAxIsMErhksE8HR0Y35TyXK7hWSvzCjDYaAv3JEALw_wcB
+
+- pingdom => desempenho:
+[Pingdom Tools](https://tools.pingdom.com/)
+
+- sucuri: segurança do site
+[Sucuri Security => segurança do site](https://sitecheck.sucuri.net/)
+
+- cookieyes ⇒ aviso de cookies automatizado(wordpress):
+[Cookie Consent Management Platform - CookieYes](https://www.cookieyes.com/cookie-consent-cmp/?utm_source=google&utm_medium=cpc&utm_campaign=search_branded_row&utm_content=em_branded_row&utm_term=cookieyes&gad_source=1&gad_campaignid=21638946392&gbraid=0AAAAACsJrke0ndFprPmYWVnF8lQb3fc32&gclid=Cj0KCQjw64jDBhDXARIsABkk8J7Vs_IgDjwD8V77qk1P8lCAxIsMErhksE8HR0Y35TyXK7hWSvzCjDYaAv3JEALw_wcB)
+
+- Termify = aviso de cookies (html/css):
+https://termify.io/
+
+ 
+
 # Para fazer instalação do Apche
 
 Acessar o Site https://jmeter.apache.org/download_jmeter.cgi e baixar o arquivo em .zip
