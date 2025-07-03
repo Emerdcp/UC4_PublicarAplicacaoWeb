@@ -83,6 +83,23 @@ Acessa a internet pelo navegador, e digitar o endereço 127.0.0.1
 ![alt text](image-10.png)
 
 
+# Para clocar um Repositorio
+
+Vai no Git e veja qual é o caminho, por exemplo.
+
+`https://github.com/Emerdcp/UC2_DesenvolverAplicacoesWebsites`
+
+Depois no Linux vai na Pasta 
+
+01. `HOME` clica para voltar. 
+02. `Ubunto/var/www/html`.
+03. Clicar com botão direito e abrir o **Terminal**
+04. Digitar comando `sudo git clone https://github.com/emerdcp/UC2_DesenvolveraplicacoesWebsites`
+    O diretorio para poder clocar.
+05. Agora só abrir no navegador.
+    localhost/UC2_DesenvolverAplicacoesWebsites/2025.05.05_siteloja
+
+
 
 
 
